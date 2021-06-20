@@ -20,7 +20,7 @@
 						"
 						active-class="bg-discord-blurple-600"
 					>
-						discord.js
+						Qterium
 					</router-link>
 
 					<router-link
